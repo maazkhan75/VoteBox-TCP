@@ -27,7 +27,7 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/maazkhan75/VoteBox_TCP.git
+   git clone https://github.com/maazkhandev75/VoteBox_TCP.git
    ```
 2. **Run the Server**
   ```bash
